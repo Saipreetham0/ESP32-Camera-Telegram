@@ -1,5 +1,22 @@
 # ESP32-CAM → Telegram
 
+<p align="left">
+  <a href="https://github.com/Saipreetham0/ESP32-Camera-Telegram/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Saipreetham0/ESP32-Camera-Telegram?style=social"></a>
+  <a href="https://github.com/Saipreetham0/ESP32-Camera-Telegram/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/Saipreetham0/ESP32-Camera-Telegram?style=social"></a>
+  <img alt="License" src="https://img.shields.io/github/license/Saipreetham0/ESP32-Camera-Telegram">
+</p>
+
+> ⭐ **Found this useful? Star the repo** — it helps other makers find it.
+
+## 📸 Demo
+
+<!-- Drop a wiring photo and a short demo GIF into docs/ then uncomment:
+![Demo](docs/demo.gif)
+![Wiring](docs/wiring.jpg)
+-->
+_Demo GIF and wiring photo coming soon._
+
+
 Control an **ESP32-CAM (AI-Thinker)** from anywhere with a **Telegram bot**: send `/photo` and get a picture back in chat. No port forwarding, no cloud account, no app — Telegram's API is the whole backend.
 
 ## Bot commands
